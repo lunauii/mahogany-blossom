@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.104.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lunauii/mahogany-blossom.git"
+  },
   "categories": [
     "Themes"
   ],
