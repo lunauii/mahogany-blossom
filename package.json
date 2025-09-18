@@ -2,7 +2,7 @@
   "name": "mahogany-blossom",
   "displayName": "Mahogany Blossom",
   "description": "A VSCode theme that matches my QT app colour pallette",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "lunaui",
   "engines": {
     "vscode": "^1.104.0"
